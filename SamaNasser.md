@@ -2,14 +2,8 @@
 
 This is a bit about me...
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
 
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/P3YfQoD.png
-[3.1]: http://i.imgur.com/yCsTjba.png
-
-[1]: http://www.twitter.com/sama_nasser
-[2]: http://www.facebook.com/sama_nasser
-[3]: https://plus.google.com/+sama_nasser
+[![Facebook Page](https://cdn-icons-png.flaticon.com/32/5968/5968764.png)](https://www.facebook.com/adfinity.endless.creativity)
+[![LinkedIn Page](https://cdn-icons-png.flaticon.com/64/3536/3536505.png)](https://www.linkedin.com/company/naj-advertising)
+[![Instagram Page](https://cdn-icons-png.flaticon.com/128/1384/1384063.png)](https://www.instagram.com/adfinity__)
+[![WhatsApp](https://cdn-icons-png.flaticon.com/256/5968/5968841.png)](https://wa.me/+201098573319)
