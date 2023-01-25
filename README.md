@@ -1,2 +1,0 @@
-# DQRCs
-Dynamic QR Codes
